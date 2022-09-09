@@ -1,0 +1,62 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto&display=swap');
+
+#root,
+html,
+body {
+    height: 100vh;
+}
+
+body {
+    font-family: 'Roboto', sans-serif;
+    color: purple;
+    margin: 0;
+    background-color: whitesmoke;
+}
+
+* {
+    box-sizing: border-box;
+}
+
+html {
+    scroll-behavior: smooth;
+}
+
+/* .greetingForLucy {
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto', sans-serif;
+    font-size: 40px;
+} */
+
+.newsSource {
+    text-align: center;
+    font-size: 50px;
+    margin-top: 10vh;
+    padding-bottom: 10vh;
+}
+
+.devLink {
+    display: flex;
+    justify-content: center;
+    padding: 0 0 10vh 0;
+    margin: 0 0 10vh 0;
+}
+
+.App-link {
+    color: #260774;
+    text-align: center;
+    font-size: 30px;
+    text-decoration: none;
+    outline: none;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 768px) {
+    .newsSource {
+        font-size: 30px;
+    }
+
+    .App-link {
+        font-size: 20px;
+    }
+}
