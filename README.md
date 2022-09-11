@@ -3,8 +3,20 @@
 Voice Controlled React News Application - Alan AI Voice Assistant
 
 ---
-Run the app:
-run `npm i && npm start` to start development server
+Clone and Run the project:
+1. Open your terminal and then copypaste: 
+```
+$ git clone https://github.com/Hacking-NASSA-with-HTML/Alan_AI_news_app.git
+```
+2. Navigate into your new folder with cloned project by type in:
+```
+cd yourNewFolderName
+```
+3. Type in to install packages from npm:
+```$ npm install```
+4. To run your react project and start a development server:
+```$ npm start```
+
 
 
 ---
