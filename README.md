@@ -32,7 +32,7 @@ to line 6.
 Current API_KEY will NOT work!
 ---
 #####
-Code that fully works on 09 September 2022 for Alan Studio platform:
+Code which fully works on 09 September 2022 for Alan Studio platform:
 https://github.com/Hacking-NASSA-with-HTML/Alan_Studio_Artificial_Intelligence_News_App_Script
 
 ---
