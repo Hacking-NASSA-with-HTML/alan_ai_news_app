@@ -16,6 +16,7 @@ cd yourNewFolderName
 ```$ npm install```
 4. To run your react project and start a development server:
 ```$ npm start```
+5. Enjoy :+1:
 
 
 
