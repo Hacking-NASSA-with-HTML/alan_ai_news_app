@@ -21,7 +21,7 @@ cd yourNewFolderName
 
 
 ---
-Deployed site:
+See Deployed site at:
 [![Netlify Status](https://api.netlify.com/api/v1/badges/4e0e66c9-c063-46ca-846e-003ad7fd56fa/deploy-status)](https://lucinda-news.netlify.app)
 
 ---
