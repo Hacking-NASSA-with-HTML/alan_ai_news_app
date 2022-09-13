@@ -6,11 +6,11 @@ Voice Controlled React News Application - Alan AI Voice Assistant
 Clone and Run the project:
 1. Open your terminal and then copypaste: 
 ```
-$ git clone https://github.com/Hacking-NASSA-with-HTML/Alan_AI_news_app.git
+$ git clone https://github.com/Hacking-NASSA-with-HTML/alan_ai_news_app.git
 ```
 2. Navigate into your new folder with cloned project by type in:
 ```
-cd yourNewFolderName
+cd alan_ai_news_app
 ```
 3. Type in to install packages from npm:
 ```$ npm install```
